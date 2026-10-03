@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Lesley 👋
 
-<!--
-**TheLesley/TheLesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android developer building native apps with **Kotlin** and **Jetpack Compose**.
+First Class BSc in Information Technology & Business Information Systems (Middlesex University, 2026).
+Based in Chelmsford / London, UK — open to graduate and junior Android roles.
 
-Here are some ideas to get you started:
+### What I've built
+- **[Pocket Pilot](https://github.com/TheLesley/pocket-pilot)** – offline-first personal finance app: Clean Architecture, Room, WorkManager sync, biometric lock, 90 automated tests, GitHub Actions CI
+- **[MovieBrowser](https://github.com/TheLesley/movie-browser)** – movie discovery app on the TMDB API: MVVM, Retrofit, Coil, type-safe navigation
+- **Lesley's Farm** – full-stack marketplace (React, Node.js, PostgreSQL), my final-year project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Kotlin · Jetpack Compose · Coroutines & Flow · Room · Retrofit · WorkManager · JUnit · MockK · Git · GitHub Actions
+
+📫 ihechinkwocha@gmail.com · [LinkedIn](https://www.linkedin.com/in/lesley-nkwocha-66a089213/)

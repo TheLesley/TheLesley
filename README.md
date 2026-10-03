@@ -1,6 +1,6 @@
 ## Hi, I'm Lesley 👋
 
-Android developer building native apps with **Kotlin** and **Jetpack Compose**.
+I am an Android developer building native apps with **Kotlin** and **Jetpack Compose**.
 First Class BSc in Information Technology & Business Information Systems (Middlesex University, 2026).
 Based in Chelmsford / London, UK — open to graduate and junior Android roles.
 
